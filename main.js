@@ -1,4 +1,4 @@
-"Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"];
+"Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre";
 
 var dia_text = ["Dom", "Lun", "Mar", "Mie", "Juv", "Vie", "Sab"];
 
